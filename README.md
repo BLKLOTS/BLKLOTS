@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BLKLOTS
+- 👋 Hi, I’m @BlackPhoenix.eth
 - 👀 I’m interested in blochcahin tech
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on web3 program
